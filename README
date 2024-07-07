@@ -1,3 +1,4 @@
+/*
   Serial Enabled LCD Kit
   by: Jim Lindblom - SparkFun Electronics
   Characters received in a serial stream are displayed on a 16x2,
@@ -13,6 +14,8 @@
   9/29/10 - Added support for 20x4, 16x4 and 20x2 LCDs.
   See special commands 0x03 through 0x06. LCD size is stored
   in EEPROM and retained upon loss of power.
+  
+  7/7/2024 - Karlfl, added version # and displayed it on splash screen
   
   The circuit:
   * LCD RS pin to digital pin 2
@@ -31,3 +34,4 @@
   http://www.arduino.cc/en/Tutorial/LiquidCrystal
   Much thanks to: Limor Fried, Tom Igoe, David A. Mellis
   for their fantastic work on this library!
+*/
