@@ -16,6 +16,7 @@
   in EEPROM and retained upon loss of power.
   
   7/7/2024 - Karlfl, added version # and displayed it on splash screen
+  
   The circuit:
   * LCD RS pin to digital pin 2
   * LCD R/W pin to digital pin 3
